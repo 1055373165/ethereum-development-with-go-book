@@ -1,0 +1,8 @@
+version = 1
+
+[[analyzers]]
+name = "go"
+
+  [analyzers.meta]
+  import_root = "github.com/1055373165/ethereum-development-with-go-book"
+  dependencies_vendored = true
